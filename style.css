@@ -1,0 +1,46 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container {
+  background-color: rgba(33, 33, 177, 0.034);
+
+  width: 550px;
+  height:113vh;
+  margin-left: 284px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-right: 20px;
+ 
+}
+#container h1{
+    color: rgba(58, 40, 161, 0.87);   
+    padding-top: 40px;
+    line-height: 5px;
+    padding-left:20px;
+}
+#container p {
+    padding-left:20px;
+  }
+ 
+#container ofl h1{
+    padding-top: 100px;
+}  
+
+#container #ip h2{
+   float:right;
+}
+
+#text{
+    font-family: "Poiret One", cursive;
+    font-size:19px;
+    text-align: justify;
+    
+}
+
+#image h4{
+    width:570px; 
+    padding-left: 20px;
+    color: rgba(58, 40, 161, 0.87); 
+
+}
